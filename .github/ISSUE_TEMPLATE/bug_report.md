@@ -7,32 +7,35 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## [BUG] [Subject of the issue]
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### Description
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+Describe your issue in as much detail as possible here.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### Your environment
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+* OS and version
+* branch that causes this issue
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+### Steps to reproduce
 
-**Additional context**
-Add any other context about the problem here.
+* Tell us how to reproduce this issue <br />
+* Where the issue is, if you know <br />
+* Which commands triggered the issue, if any
+
+### Expected behaviour
+
+Tell us what should happen
+
+### Actual behaviour
+
+Tell us what happens instead
+
+### Logs
+
+Please paste any logs here that demonstrate the issue, if they exist
+
+### Proposed solution
+
+If you have an idea of how to fix this issue, please write it down here, so we can begin discussing it
