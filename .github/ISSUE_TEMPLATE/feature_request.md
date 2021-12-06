@@ -1,3 +1,12 @@
+---
+name: Feature report
+about: Suggest an idea for this project 
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## [FEATURES] [Subject of the issue]
 
 ### Description
